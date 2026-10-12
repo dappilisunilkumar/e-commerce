@@ -31,7 +31,7 @@ function Navbar() {
             <ShoppingBag size={22} />
           </span>
           <span>
-            ShopSphere<span className="brand-dot">.</span>
+            ShopSphere<span className="brand-dot"></span>
           </span>
         </Link>
 
