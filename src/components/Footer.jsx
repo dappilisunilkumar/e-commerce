@@ -34,7 +34,7 @@ function Footer() {
         </p>
 
         <p>
-          Crafted with <Heart size={14} className="heart-icon" /> using React
+          Crafted with <Heart size={14} className="heart-icon" /> sunil
         </p>
       </div>
     </footer>
